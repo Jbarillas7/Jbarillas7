@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... business 
 - 💞️ I’m looking to collaborate on ... ESL Content
 - 📫 How to reach me ...janetbarillas@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...she/her
+- ⚡ Fun fact: ...I love to dance! 
 
 <!---
 Jbarillas7/Jbarillas7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
